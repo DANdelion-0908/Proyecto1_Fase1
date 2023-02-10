@@ -1,13 +1,12 @@
-;;;; XD
-
-(defvar entrada (read))
-(defvar entry (read))
-(+ entrada entry)
-(format t "El resultado es: ~D" (+ entrada entry))
-
-(print "Conversión de Farenheit a Celcius")
-
+(print "Conversion de Farenheit a Celcius")
 (print "Ingresa los grados Farenheit: ")
 (defvar F)
+(setq F (read))
+(defun Switch (F)
+    (format t "La conversion es igual a: ~D" (* (- F 32) 0.56))
+)
+(Switch F)
+
+
 
 

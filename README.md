@@ -4,4 +4,7 @@ Códigos de LISP para conversión de Farenheit a Celsius; Factorial y serie de F
 
 ## **Integrantes del grupo:**
 
-- Héctor Daniel Penedo Juarez, No. *22217*
+- Héctor Penedo, No. *22217*
+- Nelson Escalante, No. *22046*
+- Javier Chiquín, No. *22103*
+- Ángel Morales, No. *22689*
